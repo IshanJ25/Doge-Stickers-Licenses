@@ -2,13 +2,10 @@ License
 
 Copyright (c) 2022 Ishan Jindal
 
-Permission is hereby granted, free of charge, to any person (the "User") obtaining a copy of this software, associated documentation files (the "Software") and graphical assets along-with (the "Stickers"), to use the Software and the Stickers with associated application(s) ("WhatsApp" and/or
-"WhatsApp for Business") provided that the User is not permitted to tamper the Software setting(s) or the Software itself in any manner which may prevent in-app display of advertisements (the "Ads") placed by the developer of
-the Software.
+Permission is hereby granted, free of charge, to any person (the "User") obtaining a copy of this software, associated documentation files (the "Software") and graphical assets along-with (the "Stickers"), to use the Software and the Stickers with associated application(s) ("WhatsApp" and/or "WhatsApp for Business") provided that the User is not permitted to tamper the Software setting(s) or the Software itself in any manner which may prevent in-app display of advertisements (the "Ads") placed by the developer of the Software.
 
-The User is not permitted to deal in the Software or the Stickers. This restriction includes but is not limited to Commercial Use, Copy, Modification, Merging, Republishing, Redistribution, Sublicensing and/or Selling Unauthorized
-Copies of the Software, the Stickers or any component that is provided along-with.
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-By using the Software and/or the Stickers, the User Agrees to all mentioned terms and conditions. All disputes shall be resolved in Delhi High Court, India.
+The User is not permitted to deal in the Software or the Stickers. This restriction includes but is not limited to Commercial Use, Copy, Modification, Merging, Republishing, Redistribution, Sublicensing and/or Selling Unauthorized Copies of the Software, the Stickers or any component that is provided along-with.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. By using the Software and/or the Stickers, the User Agrees to all mentioned terms and conditions. All disputes shall be resolved in Delhi High Court, India.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
